@@ -1,0 +1,6 @@
+{
+    "denodoserver_name"      : "10.82.0.10",
+    "denodoserver_jdbc_port" : "9999",
+    "denododriver_path"      :  "/lib/modules/denodo/driver/denodo-vdp-jdbcdriver-8.0-ga.jar",
+    "denododriver_class"     : "com.denodo.vdp.jdbc.Driver"
+}
